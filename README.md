@@ -1,4 +1,5 @@
 ## Hi there 👋
+![image](https://github.com/user-attachments/assets/4f733505-47ac-4c6d-a9a8-45c8a80de71b)
 
 <!--
 **kliuverTsk/kliuverTsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
